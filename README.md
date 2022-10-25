@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-ITs a markdwon file in this repository.
+Its a markdwon file in this repository.
